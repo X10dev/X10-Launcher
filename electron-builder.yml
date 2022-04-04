@@ -1,4 +1,4 @@
-appId: 'helioslauncher'
+appId: 'x10launcher'
 productName: 'X10 Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
