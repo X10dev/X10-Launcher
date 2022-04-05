@@ -5,9 +5,9 @@
   "description": "Modded Minecraft Launcher",
   "author": "Sebastian Dziedzic (https://github.com/sebbyd05/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/X10dev/X10-Launcher",
+  "homepage": "https://github.com/sebbyd05/X10-Launcher",
   "bugs": {
-    "url": "https://github.com/X10dev/X10-Launcher/issues"
+    "url": "https://github.com/sebbyd05/X10-Launcher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/X10dev/X10-Launcher.git"
+    "url": "git+https://github.com/sebbyd05/X10-Launcher.git"
   }
 }
