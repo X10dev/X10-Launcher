@@ -2858,9 +2858,10 @@ input:checked + .toggleSwitchSlider:before {
     height: 70px;
     width: auto;
     position: relative;
-    border: 2px solid white;
+    border: 2px solid rgb(245, 155, 19);
     box-sizing: border-box;
     border-radius: 50%;
+    background: black;
 }
 
 /* Logo container styles. */
