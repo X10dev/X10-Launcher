@@ -274,7 +274,7 @@ body, button {
 
 #welcomeImageSeal {
     border-radius: 50%;
-    border: 2px solid #cad7e1;
+    border: 2px solid #cad7e100;
     background: rgba(1, 2, 1, 0.5);
     height: 125px;
     width: 125px;
@@ -2858,9 +2858,10 @@ input:checked + .toggleSwitchSlider:before {
     height: 70px;
     width: auto;
     position: relative;
-    border: 2px solid white;
+    border: 2px solid rgb(245, 155, 19);
     box-sizing: border-box;
     border-radius: 50%;
+    background: black;
 }
 
 /* Logo container styles. */
